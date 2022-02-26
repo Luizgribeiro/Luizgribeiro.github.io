@@ -1,4 +1,4 @@
-baseurl = "https://luizgribeiro.github.io/personal-blog"
+baseurl = "https://luizgribeiro.github.io/"
 languageCode = "en-us"
 theme = ["terminal"]
 paginate = 5
