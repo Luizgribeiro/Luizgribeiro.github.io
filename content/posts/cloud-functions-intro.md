@@ -2,7 +2,7 @@
 title = "Google Cloud Functions & Node - Visão Geral"
 date = "2022-06-07"
 author = "Luiz Guilherme Ribeiro"
-authorTwitter = "luiz\_gribeiro" #do not include @
+authorTwitter = "luiz_gribeiro" #do not include @
 cover = ""
 tags = ["cloud functions", "GCP", "serverless", "node"]
 keywords = ["serverless", "cloud functions"]
