@@ -64,7 +64,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "LG's blog"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Where ideas are turned into code"
     owner = ""
     keywords = ""
     copyright = ""
@@ -93,7 +93,7 @@ paginate = 5
   [languages.pt-br]
     languageName = "Português"
     title = "Blog do LG"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Onde ideias se transformam em gambiarras"
     owner = ""
     keywords = ""
     copyright = ""
@@ -103,7 +103,7 @@ paginate = 5
     newerPosts = "Novas postagens"
     olderPosts = "Postagens antigas"
     missingContentMessage = "Página não encontrada"
-    missingBackButtonLabel = "Voltar à home"
+    missingBackButtonLabel = "Voltar ao início"
 
     [languages.pt-br.params.logo]
       logoText = "Blog do LG"
@@ -116,5 +116,5 @@ paginate = 5
         url = "/about"
       [[languages.pt-br.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
+        name = ""
         url = "/showcase"
