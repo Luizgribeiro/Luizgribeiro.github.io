@@ -75,6 +75,7 @@ paginate = 5
     olderPosts = "Older posts"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
+    contentDir = "content/en"
 
     [languages.en.params.logo]
       logoText = "LG's blog"
@@ -104,6 +105,7 @@ paginate = 5
     olderPosts = "Postagens antigas"
     missingContentMessage = "Página não encontrada"
     missingBackButtonLabel = "Voltar ao início"
+    contentDir = "content/pt-br"
 
     [languages.pt-br.params.logo]
       logoText = "Blog do LG"
