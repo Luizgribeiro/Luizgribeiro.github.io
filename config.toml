@@ -116,5 +116,5 @@ paginate = 5
         url = "/about"
       [[languages.pt-br.menu.main]]
         identifier = "showcase"
-        name = ""
+        name = "Galeria"
         url = "/showcase"
